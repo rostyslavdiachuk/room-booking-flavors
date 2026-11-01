@@ -1,0 +1,21 @@
+rooms
+book 214 2027-03-03T10:00 90 Petrenko 20
+book 214 2027-03-03T11:00 60 Ivanenko 10
+book 214 2027-03-03T11:30 60 Ivanenko 10
+book 999 2027-03-03T10:00 60 Koval 5
+book 305 2020-01-01T10:00 60 Koval 5
+book 305 2027-03-03T10:00 200 Koval 5
+book 305 2027-03-03T10:00 60 Koval 0
+book 305 2027-03-03T10:00 60 Koval 20
+book 214 2027-03-04T10:00 60 Koval 10 projector
+book 101 2027-03-04T10:00 60 Koval 25 projector
+book 101 tomorrow 60 Koval 5
+list
+list 214
+cancel 1 Ivanenko
+cancel 9 Petrenko
+cancel 1 Petrenko
+list
+book
+dance
+exit
